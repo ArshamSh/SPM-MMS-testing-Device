@@ -1,0 +1,187 @@
+Added Component: Designator=C1(Cap electrolitic radial 10x20-5)
+Add component (AddParameter): Name = "Inflow"; Value = "4225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000u'F, 25'V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(PCBComponent_1)
+Added Component: Designator=C3(PCBComponent_1)
+Added Component: Designator=C4(SMT_C_Tantalum_B)
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C5(SMT_C_Tantalum_B)
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP 1206/3216)
+Add component (AddParameter): Name = "Inflow"; Value = "5240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22p'F, 50'V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP 1206/3216)
+Add component (AddParameter): Name = "Inflow"; Value = "5240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22p'F, 50'V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(R-6)
+Add component (AddParameter): Name = "Inflow"; Value = "4404"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6A10"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED 1206/3216 RED)
+Add component (AddParameter): Name = "Inflow"; Value = "5253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red, 1206"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SS34)
+Add component (AddParameter): Name = "Arsham"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SK54"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED 1206/3216 YELLOW)
+Add component (AddParameter): Name = "Inflow"; Value = "5250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Yellow, 1206"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED 1206/3216 GREEN)
+Add component (AddParameter): Name = "Inflow"; Value = "5247"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green, 1206"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Power Jack BIG)
+Add component (AddParameter): Name = "Inflow"; Value = "6127"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=L1(Ind7.3x6.6)
+Added Component: Designator=L2(IND5.3x5.3)
+Added Component: Designator=P1(Phoenix_2PIN_RA_P5.08mm)
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2'Pin"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=U1(D2PAK_TO-263-5)
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TO252-3N)
+Add component (AddParameter): Name = "Inflow"; Value = "inflow?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AMS1117CD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=L2-2
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Net: Name=+5
+Added Pin To Net: NetName=3v3 Pin=C5-1
+Added Pin To Net: NetName=3v3 Pin=C7-1
+Added Pin To Net: NetName=3v3 Pin=R3-2
+Added Pin To Net: NetName=3v3 Pin=U2-4
+Added Net: Name=3v3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=L1-2
+Added Pin To Net: NetName=NetC2_1 Pin=L2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R1-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=L1-1
+Added Pin To Net: NetName=NetD3_2 Pin=U1-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R2-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R3-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=Vin1 Pin=D1-1
+Added Pin To Net: NetName=Vin1 Pin=J1-1
+Added Pin To Net: NetName=Vin1 Pin=P1-2
+Added Net: Name=Vin1
+Added Pin To Net: NetName=Vin2 Pin=C1-1
+Added Pin To Net: NetName=Vin2 Pin=D1-2
+Added Pin To Net: NetName=Vin2 Pin=R2-2
+Added Pin To Net: NetName=Vin2 Pin=U1-1
+Added Net: Name=Vin2
+Added Class: Name=voltage regulators
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

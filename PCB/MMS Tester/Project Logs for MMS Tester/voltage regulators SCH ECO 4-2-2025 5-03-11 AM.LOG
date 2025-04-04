@@ -1,0 +1,9 @@
+Replace Part C1 Cap_Elec_1000u_25 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Cap_Elec_1000u_25 from aKaReZa.IntLib
+Replace Part C2 Cap_SMD7x7 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Cap_SMD7x7 from Arsham_libForMMSTester.IntLib
+Replace Part D1 Semi_Diod_STD_6A10 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Semi_Diod_STD_6A10 from aKaReZa.IntLib
+Replace Part D2 Semi_Diod_Sch_SK54 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Semi_Diod_Sch_SK54 from aKaReZa.IntLib
+Replace Part J1 Con_Power_Jack in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Con_Power_Jack from aKaReZa.IntLib
+Replace Part L1 IND 7.3x7.3 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with IND 7.3x7.3 from Arsham_libForMMSTester.IntLib
+Replace Part L2 Ind_47u_Tor_8 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Ind_47u_Tor_8 from aKaReZa.IntLib
+Replace Part P1 Con_Power_2 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with Con_Power_2 from aKaReZa.IntLib
+Replace Part U1 IC_Reg_LM2596 in P:\MMS_Tester\PCB\MMS Tester\voltage regulators.SchDoc with IC_Reg_LM2596 from aKaReZa.IntLib

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Member From Class: ClassName=voltage regulators Member=C4
+Change Component Comment : Designator=C2 Old Comment=Cap_SMD7x7 New Comment=220uF
+Change Component Description : Designator=C2 Old Description= New Description=Cap_SMD7x7

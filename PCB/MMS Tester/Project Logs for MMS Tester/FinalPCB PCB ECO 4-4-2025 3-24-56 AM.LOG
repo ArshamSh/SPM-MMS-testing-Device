@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D1 Old Footprint=R-6 New Footprint=DO-214AB(SMC)
+Change Component Comment : Designator=D1 Old Comment=6A10 New Comment=RS5AC
+Change component parameters: Designator = "D1" ("D1"); Footprint = "R-6"; UniqueID = "\HSOPWTUJ" ("\HSOPWTUJ")
+Change component parameters (AddParameter): Name = "Inflow"; Value = "5230"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Validation"; Value = "Valid"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SK54"; VariantName = "[No Variations]"

@@ -1,0 +1,13 @@
+Change Component Comment : Designator=D1 Old Comment=RS5AC New Comment=RS5AC THRU RS5MC
+Change Component Comment : Designator=U1 Old Comment=Value? New Comment=lm2596-5vCTE
+Change Component Description : Designator=D1 Old Description=Surface Mount Fast Recovery Rectifiers New Description=Surface Mount Fast Recovery Rectifiers
+Reverse Voltage - 50 to 1000 V
+Forward Current - 5 A
+Added Component: Designator=Q1(TO-220 AB)
+Add component (AddParameter): Name = "Inflow"; Value = "5324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Rating?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Validation"; Value = "NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "P-Channel"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=voltage regulators Member=Component Q1 P-Channel

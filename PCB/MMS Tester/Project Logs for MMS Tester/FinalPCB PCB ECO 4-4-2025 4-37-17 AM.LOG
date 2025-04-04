@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C3 Old Comment=Cap_SMD7x7 New Comment=220uF
+Change Component Comment : Designator=L2 Old Comment=IND 5.3x5.3 New Comment=3.3uH 
+Change Component Comment : Designator=L1 Old Comment=IND 7.3x7.3 New Comment=33uH
+Change Component Description : Designator=L2 Old Description= New Description=Isat=1.74A
+(ohm)max. .0.037 @ 100kHz
+Change Component Description : Designator=L1 Old Description= New Description=Isat=2.5A
+(ohm)max. 240 m-Ohm  @ 100kHz
